@@ -1,10 +1,3 @@
-//
-//  Person.swift
-//  SwiftUI_Follow_Cards
-//
-//  Created by Enes on 27.03.2023.
-//
-
 import Foundation
 
 struct Person {

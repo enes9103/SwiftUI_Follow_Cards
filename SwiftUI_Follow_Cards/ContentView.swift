@@ -11,7 +11,6 @@ struct ContentView: View {
             
             PersonCardView(person: person3)
                 .listRowSeparator(.hidden)
-                
         }
         .listStyle(.plain)
     }
